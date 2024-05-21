@@ -214,7 +214,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #home {
-  background: url(http://upakovano.ru/upload/iblock/2c9/php31X7Xr.jpg) 50% 0 repeat-y fixed;
+  background: url("http://upakovano.ru/upload/iblock/2c9/php31X7Xr.jpg") 50% 0 repeat-y fixed;
   background-size: cover;
   background-position: center center;
   display: -webkit-box;
